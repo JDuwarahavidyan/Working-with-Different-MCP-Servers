@@ -6,16 +6,23 @@
             "args": [
                 "-y",
                 "@modelcontextprotocol/server-filesystem",
-                "."
+                "D:\\WSO2 Learnings"
             ]
         },
         "math": {
             "command": "uv",
             "args": ["run", "math_server.py"]
         },
+        "research": {
+            "url": "http://localhost:8001/sse"
+        },
         "fetch": {
             "command": "uvx",
             "args": ["mcp-server-fetch"]
+        },
+        "time":{
+            "command": "uvx",
+            "args": ["mcp-server-time"]
         }
     }
 }
