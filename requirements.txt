@@ -1,0 +1,8 @@
+langchain-groq
+langchain-mcp-adapters
+langchain
+fastapi[standard]
+fastmcp
+python-dotenv
+pydantic-settings
+uvicorn
