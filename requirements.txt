@@ -8,3 +8,4 @@ pydantic-settings
 uvicorn
 arxiv
 tavily-python
+mcp-server-time

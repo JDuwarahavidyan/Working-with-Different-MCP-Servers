@@ -11,6 +11,7 @@ dependencies = [
     "langchain>=1.2.15",
     "langchain-groq>=1.1.2",
     "langchain-mcp-adapters>=0.2.2",
+    "mcp-server-time>=2026.1.26",
     "pydantic-settings>=2.13.1",
     "python-dotenv>=1.2.2",
     "tavily-python>=0.7.23",
