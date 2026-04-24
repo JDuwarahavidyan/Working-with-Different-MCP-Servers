@@ -1,9 +1,7 @@
 # MCP with LangChain
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="64" height="64" alt="Python">
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="64" height="64" alt="LangChain">
-  <img src="https://modelcontextprotocol.io/img/logo.png" width="64" height="64" alt="MCP">
+  
   <br>
   Build Multi-Tool AI Agents with <span style="color:#0f766e;">MCP</span> + <span style="color:#2563eb;">LangChain</span>
 </h1>
